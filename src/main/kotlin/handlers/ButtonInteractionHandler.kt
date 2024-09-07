@@ -1,7 +1,6 @@
 package com.beradeep.handlers
 
 import com.beradeep.constants.Constants.colorMap
-import com.beradeep.guild
 import com.beradeep.guildBehavior
 import com.beradeep.guildId
 import dev.kord.core.Kord

@@ -2,11 +2,9 @@ package com.beradeep
 
 import com.beradeep.constants.Constants.guildIdLong
 import com.beradeep.handlers.*
-import dev.kord.common.Color
 import dev.kord.common.entity.Snowflake
 import dev.kord.core.Kord
 import dev.kord.core.behavior.GuildBehavior
-import dev.kord.core.cache.data.GuildData
 import dev.kord.core.entity.Guild
 import dev.kord.gateway.Intent
 import dev.kord.gateway.PrivilegedIntent
