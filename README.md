@@ -1,4 +1,5 @@
 # Unccord Kotlin Bot
+[Join Cracked Unc Club](https://discord.gg/3jfKWTwbeM)
 
 A Kotlin-based Discord bot that allows users to assign roles by interacting with buttons and embeds.
 
@@ -52,7 +53,7 @@ A Kotlin-based Discord bot that allows users to assign roles by interacting with
 
    Follow the prompts to add the bot to your Discord server.
 
-## Usage and  Deployment
+## Build, Run and Deploy
 
 1. **Build the Docker image:**
 
@@ -68,7 +69,7 @@ A Kotlin-based Discord bot that allows users to assign roles by interacting with
 
 ## Usage
 
-The bot listens for button interactions and assigns roles based on the configuration provided in the `assignRoleEmbed` function.
+The bot listens for button interactions and assigns colors and roles accordingly.
 
 ## Contributing
 
@@ -77,7 +78,3 @@ The bot listens for button interactions and assigns roles based on the configura
 3. Commit your changes (`git commit -am 'Add new feature'`)
 4. Push to the branch (`git push origin feature-branch`)
 5. Create a new Pull Request
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
